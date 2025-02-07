@@ -1,7 +1,9 @@
 <h1>
   About Me
 </h1>
-
+<p>Hi! I'm Yuki</p>
+<h2>Programming Languages</h2>
+![](https://skillicons.dev/icons?i=html,css,js,pug,sass)
 <!--
 **Takatsu-yuki/Takatsu-yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
