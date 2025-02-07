@@ -2,6 +2,8 @@
   About Me
 </h1>
 <p>Hi! I'm Yuki</p>
+<p>I'm currently learning about web production. </p>
+<p>I want to be involved in projects related to anime and games.</p>
 <h2>Programming Languages</h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,sass,pug" alt="My Skills" />
